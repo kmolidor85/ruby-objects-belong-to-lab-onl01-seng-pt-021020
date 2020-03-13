@@ -1,4 +1,3 @@
-Learn more or give us feedback
 require "spec_helper"
 
 describe "Song" do 
